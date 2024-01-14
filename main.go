@@ -4,5 +4,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World!")
+	var strOne = "Bittu"
+	var strTwo string = "singh"
+	var strThree string
+	myString := "My first String"
+	fmt.Println(strOne,strTwo,strThree, myString)
 }
